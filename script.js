@@ -60,10 +60,11 @@ const messages = [
     "KYYYYY please...",
     "Just think about it!",
     "If you say no, I will be really sad...",
-    "LIKE REALLY SAD!!...",
-    "I will be very very very sad...",
+    "AND KUROMI WILL BE SAD :(",
+    "KYYYYYYYYYARYLLLLLLLLL III",
     "Ok fine, I will stop asking...",
     "Just kidding, say yes please! ONEGAII ❤️"
+
 ];
 
 let messageIndex = 0;
